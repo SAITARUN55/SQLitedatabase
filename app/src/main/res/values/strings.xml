@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="save">Save</string>
+    <string name="retreive">Retreive</string>
+</resources>
